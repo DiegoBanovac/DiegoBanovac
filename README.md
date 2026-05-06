@@ -23,12 +23,9 @@ Currently seeking a software engineering internship where I can contribute, grow
 
 ## About Me
 
-- Student at Veluciliste u Rijeci (University of Applied Sciences of Rijeka)
-- - Building full-stack projects with React, Vue.js, and Node.js
-  - - Experienced with REST APIs, JWT auth, relational databases, and unit testing
-    - - Open to collaborating and learning in a professional engineering environment
-     
-      - ## Contact
-     
-      - - GitHub: [@DiegoBanovac](https://github.com/DiegoBanovac)
-        - - Location: Rijeka, Croatia
+Student at Veluciliste u Rijeci (University of Applied Sciences of Rijeka), building full-stack projects with React, Vue.js, and Node.js. Experienced with REST APIs, JWT authentication, relational databases, and unit testing. Open to collaborating and learning in a professional engineering environment.
+
+## Contact
+
+GitHub: [@DiegoBanovac](https://github.com/DiegoBanovac)  
+Location: Rijeka, Croatia
