@@ -8,7 +8,7 @@ Currently seeking a software engineering internship where I can contribute, grow
 
 **Frontend:** React, Vue.js, TailwindCSS, Vite  
 **Backend:** Node.js, Express.js, PHP, Java  
-**Databases:** PostgreSQL, MySQL  
+**Databases:** PostgreSQL, MySQL, HeidiSQL  
 **Tools & Libraries:** Git, JWT, Sequelize, Multer, Capacitor, Jest, Supertest, PDO
 
 ## Projects
@@ -29,4 +29,5 @@ Student at Veluciliste u Rijeci (University of Applied Sciences of Rijeka), buil
 ## Contact
 
 GitHub: [@DiegoBanovac](https://github.com/DiegoBanovac)  
-Location: Rijeka, Croatia
+Location: Rijeka, Croatia,
+          Rovinj, Croatia
