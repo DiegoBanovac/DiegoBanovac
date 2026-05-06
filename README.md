@@ -28,6 +28,7 @@ Student at Veluciliste u Rijeci (University of Applied Sciences of Rijeka), buil
 
 ## Contact
 
-GitHub: [@DiegoBanovac](https://github.com/DiegoBanovac)  
+GitHub: [@DiegoBanovac](https://github.com/DiegoBanovac) 
+LinkedIn: [@Diego Banovac](https://www.linkedin.com/in/diego-banovac/)
 Location: Rijeka, Croatia,
           Rovinj, Croatia
