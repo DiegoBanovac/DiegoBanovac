@@ -21,7 +21,7 @@ Currently seeking a software engineering internship where I can contribute, grow
 | [fish-forecast-app](https://github.com/DiegoBanovac/fish-forecast-app) | Fishing conditions forecast web app | React, Node.js | [Live](https://fish-forecast-app.onrender.com) |
 | [hotel-batana](https://github.com/DiegoBanovac/hotel-batana) | Hotel website with booking system — built at Nivago internship | PHP, MySQL | [Live](https://diego-banovac.infinityfreeapp.com/index.php) |
 | [kids-game](https://github.com/DiegoBanovac/kids-game) | Educational game for Vista ADHD center | Java | IN PROGRESS |
-| [portfolio_web](https://github.com/DiegoBanovac/portfolio_web) | Personal portfolio website | React, Vite | [Live](https://portfolio-web-eta-two-43.vercel.app) |
+| [portfolio_web](https://github.com/DiegoBanovac/portfolio_web) | Personal portfolio website | React, Vite | [Live](https://portfolio-web-diegobanovacs-projects.vercel.app/) |
 
 ## About Me
 
