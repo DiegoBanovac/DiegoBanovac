@@ -12,6 +12,7 @@ Currently seeking a software engineering internship where I can contribute, grow
 **Tools & Libraries:** Git, JWT, Sequelize, Multer, Capacitor, Jest, Supertest, PDO
 
 ## Projects
+!! Some Projects need time to load because they are on a free tier of hosting :( !
 
 | Project | Description | Stack | Live |
 |---|---|---|---|
