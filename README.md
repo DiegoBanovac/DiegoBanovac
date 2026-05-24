@@ -22,6 +22,7 @@ Currently seeking a software engineering internship where I can contribute, grow
 | [hotel-batana](https://github.com/DiegoBanovac/hotel-batana) | Hotel website with booking system — built at Nivago internship | PHP, MySQL | [Live](https://diego-banovac.infinityfreeapp.com/index.php) |
 | [kids-game](https://github.com/DiegoBanovac/kids-game) | Educational game for Vista ADHD center | Java | IN PROGRESS |
 | [portfolio_web](https://github.com/DiegoBanovac/portfolio_web) | Personal portfolio website | React, Vite | [Live](https://portfolio-web-diegobanovacs-projects.vercel.app/) |
+| [sentiment-analyzer](https://github.com/DiegoBanovac/sentiment-analyzer) | Sentiment analysis tool built with PyTorch | Python, PyTorch | IN PROGRESS |
 
 ## About Me
 
