@@ -20,9 +20,11 @@ Currently seeking a software engineering internship where I can contribute, grow
 | [Cloud Estate](https://github.com/DiegoBanovac/Cloud_Estate_Mobile) | Real estate rental and sale platform | Vue.js, Node.js, MySQL | [Live](https://cloud-estate-mobile.onrender.com) |
 | [fish-forecast-app](https://github.com/DiegoBanovac/fish-forecast-app) | Fishing conditions forecast web app | React, Node.js | [Live](https://fish-forecast-app.onrender.com) |
 | [hotel-batana](https://github.com/DiegoBanovac/hotel-batana) | Hotel website with booking system — built at Nivago internship | PHP, MySQL | [Live](https://diego-banovac.infinityfreeapp.com/index.php) |
-| [kids-game](https://github.com/DiegoBanovac/kids-game) | Educational game for Vista ADHD center | Java | IN PROGRESS |
+| [kids-game](https://github.com/DiegoBanovac/kids-game) | Educational game for Vista ADHD center | Java |
 | [portfolio_web](https://github.com/DiegoBanovac/portfolio_web) | Personal portfolio website | React, Vite | [Live](https://portfolio-web-diegobanovacs-projects.vercel.app/) |
-| [sentiment-analyzer](https://github.com/DiegoBanovac/sentiment-analyzer) | Sentiment analysis tool built with PyTorch | Python, PyTorch | IN PROGRESS |
+| [sentiment-analyzer](https://github.com/DiegoBanovac/sentiment-analyzer) | Sentiment analysis tool built with PyTorch | Python, PyTorch 
+| [Mandates and work of committees.]() | Development of a system for tracking the mandates and work of committees for University of Applied Sciences of Rijeka.| Quasar, Node.js | CURRENTLY WORKING
+
 
 ## About Me
 
